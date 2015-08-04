@@ -23,14 +23,14 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 ##What you find in this repository
 
-*CodeBook.md: information about raw and tidy data set
-*README.md: this file
-*run_analysis.R: R script to transform raw data set in a tidy one
+* CodeBook.md: information about raw and tidy data set
+* README.md: this file
+* run_analysis.R: R script to transform raw data set in a tidy one
 ##How to
 
-*clone this repository
-*download compressed raw data
-*unzip raw data and copy the directory 'UCI HAR Dataset' to the cloned repository root directory
-*open a R console and set the working directory to the repository root
-*run run_analysis.R script
+* clone this repository
+* download compressed raw data
+* unzip raw data and copy the directory 'UCI HAR Dataset' to the cloned repository root directory
+* open a R console and set the working directory to the repository root
+* run run_analysis.R script
 In the repository root directory you find the file 'sensordata_avg_by_subject.txt'
